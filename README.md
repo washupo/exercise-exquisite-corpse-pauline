@@ -24,3 +24,5 @@ un groupe de lapin, ils avaient comme lui très très faim, le canard pris peur 
 =======
 Partie Prescillia
 >>>>>>> e06196cf16f6cad7e466d69ed51a9a721011bad6
+c est l histoire d un vieux canard qui coualit en dormant,
+un jour il s acheta une bouee et voila.
