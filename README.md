@@ -18,5 +18,9 @@ Il n'aurait probablement pas dû manger le chat....
 Après tout, elle a oublié tout ce que son ami Riadh lui avait dit sur GitHub !!
 ____
 
+<<<<<<< HEAD
 
 un groupe de lapin, ils avaient comme lui très très faim, le canard pris peur car il avait peur qu'ils s'en prennent à lui, il prit donc la fuite avec le peu d'energie qui lui restait et soudain...
+=======
+Partie Prescillia
+>>>>>>> e06196cf16f6cad7e466d69ed51a9a721011bad6
